@@ -1,6 +1,6 @@
 # cmark-swift-wrapper
 
-This is a simple wrapper around `cmark` that allows to display `Markdown` inside `UIWebView` and `WKWebView`.
+This is a simple wrapper around `cmark` that allows to display `CommonMark` inside `UIWebView` and `WKWebView`.
 
 # Example Usage
 
